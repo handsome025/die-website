@@ -74,23 +74,23 @@ body {
 	/*min-height: 828px;*/
 }
 .banner .banner-c .li1{
-	background: url('../images/banner1.png') 0 0 no-repeat;
+	background: url('https://doll-img.oss-cn-shanghai.aliyuncs.com/static/gate/banner1.png') 0 0 no-repeat;
 	background-size: 100% 100%;
 }
 .banner .banner-c .li2{
-	background: url('../images/banner2.png') 0 0 no-repeat;
+	background: url('https://doll-img.oss-cn-shanghai.aliyuncs.com/static/gate/banner2.png') 0 0 no-repeat;
 	background-size: 100% 100%;
 }
 .banner .banner-c .li3{
-	background: url('../images/banner3.png') 0 0 no-repeat;
+	background: url('https://doll-img.oss-cn-shanghai.aliyuncs.com/static/gate/banner3.png') 0 0 no-repeat;
 	background-size: 100% 100%;
 }
 .banner .banner-c .li4{
-	background: url('../images/banner4.png') 0 0 no-repeat;
+	background: url('https://doll-img.oss-cn-shanghai.aliyuncs.com/static/gate/banner4.png') 0 0 no-repeat;
 	background-size: 100% 100%;
 }
 .banner .banner-c .li5{
-	background: url('../images/banner5.png') 0 0 no-repeat;
+	background: url('https://doll-img.oss-cn-shanghai.aliyuncs.com/static/gate/banner5.png') 0 0 no-repeat;
 	background-size: 100% 100%;
 }
 .banner-nav {
@@ -107,11 +107,11 @@ body {
 	height: 40px;
 	margin: 0 10px;
 	text-indent: -9999em;
-	background: url('../images/banner-point.png') center center no-repeat;
+	background: url('https://doll-img.oss-cn-shanghai.aliyuncs.com/static/gate/banner-point.png') center center no-repeat;
 	background-size: 16px 16px;
 }
 .banner-nav .on {
-	background: url('../images/banner-point-curr.png') center center no-repeat;
+	background: url('https://doll-img.oss-cn-shanghai.aliyuncs.com/static/gate/banner-point-curr.png') center center no-repeat;
 }
 
 .banner-c li .slide-top{
@@ -356,11 +356,11 @@ body {
 	height: 40px;
 	margin: 0 10px;
 	text-indent: -9999em;
-	background: url('../images/banner-point.png') center center no-repeat;
+	background: url('https://doll-img.oss-cn-shanghai.aliyuncs.com/static/gate/banner-point.png') center center no-repeat;
 	background-size: 16px 16px;
 }
 .swiper-active-switch {
-	background: url('../images/banner-point-curr.png') center center no-repeat;
+	background: url('https://doll-img.oss-cn-shanghai.aliyuncs.com/static/gate/banner-point-curr.png') center center no-repeat;
 }
 
 @media (max-width: 1600px){
